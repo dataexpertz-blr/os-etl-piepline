@@ -9,9 +9,10 @@ Open Source ETL Pipeline
 - Data Validation
 - Data Transformation
 - Data Load to Warehouse
+- Data Lineage
 - Data Observability
 
 ## Tool Stack
-**Req** | Profiling | Ingestion | Validation | Transformation | Loading | Observability
+Req | Profiling | Ingestion | Validation | Transformation | Loading | Lineage | Observability
 --- | --- | --- | --- |--- |--- |---
-**Tools** | pandas_profiling | Spark | Great Expectations | Spark | Spark |  
+Tools | pandas_profiling | Spark | Great Expectations | Spark | Spark | Spline | 
