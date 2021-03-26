@@ -12,6 +12,6 @@ Data Load to Warehouse
 Data Observability
 
 ## Tool Stack
-#**Req** | #Profiling | #Ingestion | #Validation | #Transformation | #Loading | #Observability
+**Req** | Profiling | Ingestion | Validation | Transformation | Loading | Observability
 --- | --- | --- | --- |--- |--- |---
-#**Tools** | pandas_profiling | Spark | Great Expectations | Spark | Spark |  
+**Tools** | pandas_profiling | Spark | Great Expectations | Spark | Spark |  
