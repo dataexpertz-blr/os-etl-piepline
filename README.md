@@ -14,5 +14,5 @@ Open Source ETL Pipeline
 
 ## Tool Stack
 Req | Profiling | Ingestion | Validation | Transformation | Loading | Lineage | Observability
---- | --- | --- | --- |--- |--- |---
+--- | --- | --- | --- |--- |--- |--- | --- 
 Tools | pandas_profiling | Spark | Great Expectations | Spark | Spark | Spline | 
